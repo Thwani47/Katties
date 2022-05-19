@@ -9,3 +9,4 @@ Problems can be found [Katties](https://open.kattis.com/).
 - [Soda Slurper](https://open.kattis.com/problems/sodaslurper)
 - [Modulo](https://open.kattis.com/problems/modulo)
 - [Skener](https://open.kattis.com/problems/skener)
+- [Skocimis](https://open.kattis.com/problems/skocimis)
