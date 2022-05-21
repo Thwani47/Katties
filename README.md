@@ -11,3 +11,4 @@ Problems can be found [Katties](https://open.kattis.com/).
 - [Skener](https://open.kattis.com/problems/skener)
 - [Skocimis](https://open.kattis.com/problems/skocimis)
 - [Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering)
+- [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)
