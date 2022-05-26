@@ -18,3 +18,4 @@ Problems can be found [Katties](https://open.kattis.com/).
 - [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)
 - [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)
 - [Digit Swap](https://open.kattis.com/problems/digitswap)
+- [Greetings!](https://open.kattis.com/problems/greetings2)
