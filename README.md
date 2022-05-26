@@ -15,3 +15,4 @@ Problems can be found [Katties](https://open.kattis.com/).
 - [Pot](https://open.kattis.com/problems/pot)
 - [Odd Echo](https://open.kattis.com/problems/oddecho)
 - [Nasty Hacks](https://open.kattis.com/problems/nastyhacks)
+- [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)
