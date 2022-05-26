@@ -12,3 +12,6 @@ Problems can be found [Katties](https://open.kattis.com/).
 - [Skocimis](https://open.kattis.com/problems/skocimis)
 - [Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering)
 - [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)
+- [Pot](https://open.kattis.com/problems/pot)
+- [Odd Echo](https://open.kattis.com/problems/oddecho)
+- [Nasty Hacks](https://open.kattis.com/problems/nastyhacks)
